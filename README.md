@@ -1,3 +1,34 @@
+🐍 Snake Game with React
+
+Description:
+This project is a classic Snake game implemented using React. Players control a snake that grows longer as it consumes food, while avoiding collisions with itself and the boundaries of the game board. The game features smooth controls, responsive design, and a dynamic scoring system.
+
+Features:
+
+Playable Snake game implemented in React
+Responsive design for seamless gameplay on various devices
+Score tracking to keep track of the player's performance
+Dynamic food generation to challenge players with varying difficulty levels
+Restart functionality to allow players to start a new game after completing or failing a round
+Technologies Used:
+
+React
+Next.js
+HTML
+CSS
+Preview:
+
+https://9lbxbqkd-3000.inc1.devtunnels.ms/
+
+Installation:
+
+Clone this repository: git clone https://github.com/your-username/snake-game.git
+Navigate to the project directory: cd snake-game
+Install dependencies: npm install
+Start the development server: npm run dev
+
+
+
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
